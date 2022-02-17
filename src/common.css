@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.header-section {
+  position: absolute;
+  margin-top: 3vh;
+  margin-left: 2vw;
+}
+
+.task-add-section {
+  position: absolute;
+  margin-left: 3vw;
+  margin-top: 15vh;
+}
