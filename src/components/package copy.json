@@ -1,10 +1,11 @@
 {
-  "name": "taskx",
-  "author": "ninad/vishal",
-  "version": "1.0",
+  "name": "@minimal/material-kit-react",
+  "author": "minimals.cc",
+  "licence": "MIT",
+  "version": "1.2.0",
   "private": false,
   "scripts": {
-    "start": "set PORT=3003 && react-scripts start",
+    "start": "set PORT=3002 && react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
